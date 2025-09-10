@@ -1,3 +1,7 @@
+[//]: # (Project completion note)
+
+## Status 9/9/2025
+The exploratory analysis in `TestDrive.ipynb` has been completed.
 
 ### Prerequisites
 - Python 3.8+
