@@ -45,9 +45,6 @@ This project demonstrates a complete exploratory data analysis (EDA) workflow us
 ## Project Status
 **Complete as of 9/10/2025.**
 
-## Status 9/10/2025
-Project complete. The exploratory analysis in `TestDrive.ipynb` was finalized on 9/10/2025.
-
 ### Prerequisites
 - Python 3.8+
 - Recommended: Use a virtual environment
