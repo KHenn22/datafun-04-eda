@@ -1,7 +1,9 @@
+## What Was Done
+This project explored the Iris dataset using Python. The data was loaded, inspected, and visualized to find patterns and differences between flower species. New features were created, and charts were made to help understand the data. The analysis shows which measurements are best for telling the species apart.
 [//]: # (Project completion note)
 
-## Status 9/9/2025
-The exploratory analysis in `TestDrive.ipynb` has been completed.
+## Status 9/10/2025
+Project complete. The exploratory analysis in `TestDrive.ipynb` was finalized on 9/10/2025.
 
 ### Prerequisites
 - Python 3.8+
