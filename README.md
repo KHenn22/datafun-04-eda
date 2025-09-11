@@ -45,13 +45,6 @@ This project demonstrates a complete exploratory data analysis (EDA) workflow us
 ## Project Status
 **Complete as of 9/10/2025.**
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-MIT License
-
-
 ## Status 9/10/2025
 Project complete. The exploratory analysis in `TestDrive.ipynb` was finalized on 9/10/2025.
 
